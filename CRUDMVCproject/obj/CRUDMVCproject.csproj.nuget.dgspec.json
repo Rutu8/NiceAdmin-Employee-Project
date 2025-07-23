@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Microsoft Dot Net Core\\.net core\\CRUDMVCproject\\CRUDMVCproject\\CRUDMVCproject.csproj": {}
+    "D:\\Microsoft Dot Net Core\\.net core\\CRUDMVCproject\\NiceAdmin-Project\\CRUDMVCproject\\CRUDMVCproject.csproj": {}
   },
   "projects": {
-    "D:\\Microsoft Dot Net Core\\.net core\\CRUDMVCproject\\CRUDMVCproject\\CRUDMVCproject.csproj": {
+    "D:\\Microsoft Dot Net Core\\.net core\\CRUDMVCproject\\NiceAdmin-Project\\CRUDMVCproject\\CRUDMVCproject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Microsoft Dot Net Core\\.net core\\CRUDMVCproject\\CRUDMVCproject\\CRUDMVCproject.csproj",
+        "projectUniqueName": "D:\\Microsoft Dot Net Core\\.net core\\CRUDMVCproject\\NiceAdmin-Project\\CRUDMVCproject\\CRUDMVCproject.csproj",
         "projectName": "CRUDMVCproject",
-        "projectPath": "D:\\Microsoft Dot Net Core\\.net core\\CRUDMVCproject\\CRUDMVCproject\\CRUDMVCproject.csproj",
+        "projectPath": "D:\\Microsoft Dot Net Core\\.net core\\CRUDMVCproject\\NiceAdmin-Project\\CRUDMVCproject\\CRUDMVCproject.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Microsoft Dot Net Core\\.net core\\CRUDMVCproject\\CRUDMVCproject\\obj\\",
+        "outputPath": "D:\\Microsoft Dot Net Core\\.net core\\CRUDMVCproject\\NiceAdmin-Project\\CRUDMVCproject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
