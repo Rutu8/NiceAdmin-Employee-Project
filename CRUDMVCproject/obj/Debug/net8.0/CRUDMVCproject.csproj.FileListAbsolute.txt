@@ -1,0 +1,148 @@
+D:\c# programs\.net core\CRUDMVCproject\CRUDMVCproject\obj\Debug\net8.0\CRUDMVCproject.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# programs\.net core\CRUDMVCproject\CRUDMVCproject\obj\Debug\net8.0\CRUDMVCproject.AssemblyInfoInputs.cache
+D:\c# programs\.net core\CRUDMVCproject\CRUDMVCproject\obj\Debug\net8.0\CRUDMVCproject.AssemblyInfo.cs
+D:\c# programs\.net core\CRUDMVCproject\CRUDMVCproject\obj\Debug\net8.0\CRUDMVCproject.csproj.CoreCompileInputs.cache
+D:\c# programs\.net core\CRUDMVCproject\CRUDMVCproject\obj\Debug\net8.0\CRUDMVCproject.MvcApplicationPartsAssemblyInfo.cache
+D:\c# programs\.net core\CRUDMVCproject\CRUDMVCproject\obj\Debug\net8.0\CRUDMVCproject.RazorAssemblyInfo.cache
+D:\c# programs\.net core\CRUDMVCproject\CRUDMVCproject\obj\Debug\net8.0\CRUDMVCproject.RazorAssemblyInfo.cs
+D:\c# programs\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\appsettings.Development.json
+D:\c# programs\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\appsettings.json
+D:\c# programs\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\CRUDMVCproject.staticwebassets.endpoints.json
+D:\c# programs\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\CRUDMVCproject.exe
+D:\c# programs\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\CRUDMVCproject.deps.json
+D:\c# programs\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\CRUDMVCproject.runtimeconfig.json
+D:\c# programs\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\CRUDMVCproject.dll
+D:\c# programs\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\CRUDMVCproject.pdb
+D:\c# programs\.net core\CRUDMVCproject\CRUDMVCproject\obj\Debug\net8.0\scopedcss\bundle\CRUDMVCproject.styles.css
+D:\c# programs\.net core\CRUDMVCproject\CRUDMVCproject\obj\Debug\net8.0\staticwebassets.build.json
+D:\c# programs\.net core\CRUDMVCproject\CRUDMVCproject\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\c# programs\.net core\CRUDMVCproject\CRUDMVCproject\obj\Debug\net8.0\staticwebassets.development.json
+D:\c# programs\.net core\CRUDMVCproject\CRUDMVCproject\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\c# programs\.net core\CRUDMVCproject\CRUDMVCproject\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\c# programs\.net core\CRUDMVCproject\CRUDMVCproject\obj\Debug\net8.0\CRUDMVCproject.dll
+D:\c# programs\.net core\CRUDMVCproject\CRUDMVCproject\obj\Debug\net8.0\refint\CRUDMVCproject.dll
+D:\c# programs\.net core\CRUDMVCproject\CRUDMVCproject\obj\Debug\net8.0\CRUDMVCproject.pdb
+D:\c# programs\.net core\CRUDMVCproject\CRUDMVCproject\obj\Debug\net8.0\CRUDMVCproject.genruntimeconfig.cache
+D:\c# programs\.net core\CRUDMVCproject\CRUDMVCproject\obj\Debug\net8.0\ref\CRUDMVCproject.dll
+D:\c# programs\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\CRUDMVCproject.staticwebassets.runtime.json
+D:\c# programs\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\Azure.Core.dll
+D:\c# programs\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\Azure.Identity.dll
+D:\c# programs\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\c# programs\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+D:\c# programs\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\c# programs\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\c# programs\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\c# programs\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\c# programs\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\c# programs\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\c# programs\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\c# programs\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\c# programs\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\c# programs\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\c# programs\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\c# programs\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\c# programs\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\c# programs\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\c# programs\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\System.ClientModel.dll
+D:\c# programs\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\c# programs\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+D:\c# programs\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\c# programs\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\System.Memory.Data.dll
+D:\c# programs\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\c# programs\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\c# programs\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+D:\c# programs\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\c# programs\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\c# programs\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\c# programs\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\c# programs\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\c# programs\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\c# programs\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+D:\c# programs\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\c# programs\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\c# programs\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+D:\c# programs\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\c# programs\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\c# programs\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\c# programs\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\c# programs\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\c# programs\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\c# programs\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\c# programs\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\c# programs\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\c# programs\.net core\CRUDMVCproject\CRUDMVCproject\obj\Debug\net8.0\CRUDMVCproject.csproj.AssemblyReference.cache
+D:\c# programs\.net core\CRUDMVCproject\CRUDMVCproject\obj\Debug\net8.0\CRUDMVCp.32670864.Up2Date
+D:\Microsoft Dot Net Core\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\appsettings.Development.json
+D:\Microsoft Dot Net Core\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\appsettings.json
+D:\Microsoft Dot Net Core\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\CRUDMVCproject.staticwebassets.endpoints.json
+D:\Microsoft Dot Net Core\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\CRUDMVCproject.staticwebassets.runtime.json
+D:\Microsoft Dot Net Core\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\CRUDMVCproject.exe
+D:\Microsoft Dot Net Core\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\CRUDMVCproject.deps.json
+D:\Microsoft Dot Net Core\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\CRUDMVCproject.runtimeconfig.json
+D:\Microsoft Dot Net Core\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\CRUDMVCproject.dll
+D:\Microsoft Dot Net Core\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\CRUDMVCproject.pdb
+D:\Microsoft Dot Net Core\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\Azure.Core.dll
+D:\Microsoft Dot Net Core\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\Azure.Identity.dll
+D:\Microsoft Dot Net Core\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Microsoft Dot Net Core\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+D:\Microsoft Dot Net Core\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Microsoft Dot Net Core\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Microsoft Dot Net Core\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Microsoft Dot Net Core\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Microsoft Dot Net Core\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Microsoft Dot Net Core\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Microsoft Dot Net Core\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Microsoft Dot Net Core\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Microsoft Dot Net Core\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Microsoft Dot Net Core\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Microsoft Dot Net Core\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Microsoft Dot Net Core\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Microsoft Dot Net Core\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Microsoft Dot Net Core\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Microsoft Dot Net Core\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\System.ClientModel.dll
+D:\Microsoft Dot Net Core\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Microsoft Dot Net Core\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+D:\Microsoft Dot Net Core\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Microsoft Dot Net Core\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Microsoft Dot Net Core\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\Microsoft Dot Net Core\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Microsoft Dot Net Core\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+D:\Microsoft Dot Net Core\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\Microsoft Dot Net Core\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\Microsoft Dot Net Core\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Microsoft Dot Net Core\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\Microsoft Dot Net Core\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Microsoft Dot Net Core\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Microsoft Dot Net Core\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+D:\Microsoft Dot Net Core\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Microsoft Dot Net Core\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Microsoft Dot Net Core\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+D:\Microsoft Dot Net Core\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Microsoft Dot Net Core\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Microsoft Dot Net Core\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Microsoft Dot Net Core\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Microsoft Dot Net Core\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Microsoft Dot Net Core\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Microsoft Dot Net Core\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Microsoft Dot Net Core\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\Microsoft Dot Net Core\.net core\CRUDMVCproject\CRUDMVCproject\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\Microsoft Dot Net Core\.net core\CRUDMVCproject\CRUDMVCproject\obj\Debug\net8.0\CRUDMVCproject.csproj.AssemblyReference.cache
+D:\Microsoft Dot Net Core\.net core\CRUDMVCproject\CRUDMVCproject\obj\Debug\net8.0\CRUDMVCproject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Microsoft Dot Net Core\.net core\CRUDMVCproject\CRUDMVCproject\obj\Debug\net8.0\CRUDMVCproject.AssemblyInfoInputs.cache
+D:\Microsoft Dot Net Core\.net core\CRUDMVCproject\CRUDMVCproject\obj\Debug\net8.0\CRUDMVCproject.AssemblyInfo.cs
+D:\Microsoft Dot Net Core\.net core\CRUDMVCproject\CRUDMVCproject\obj\Debug\net8.0\CRUDMVCproject.csproj.CoreCompileInputs.cache
+D:\Microsoft Dot Net Core\.net core\CRUDMVCproject\CRUDMVCproject\obj\Debug\net8.0\CRUDMVCproject.MvcApplicationPartsAssemblyInfo.cache
+D:\Microsoft Dot Net Core\.net core\CRUDMVCproject\CRUDMVCproject\obj\Debug\net8.0\CRUDMVCproject.RazorAssemblyInfo.cache
+D:\Microsoft Dot Net Core\.net core\CRUDMVCproject\CRUDMVCproject\obj\Debug\net8.0\CRUDMVCproject.RazorAssemblyInfo.cs
+D:\Microsoft Dot Net Core\.net core\CRUDMVCproject\CRUDMVCproject\obj\Debug\net8.0\scopedcss\bundle\CRUDMVCproject.styles.css
+D:\Microsoft Dot Net Core\.net core\CRUDMVCproject\CRUDMVCproject\obj\Debug\net8.0\staticwebassets.build.json
+D:\Microsoft Dot Net Core\.net core\CRUDMVCproject\CRUDMVCproject\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Microsoft Dot Net Core\.net core\CRUDMVCproject\CRUDMVCproject\obj\Debug\net8.0\staticwebassets.development.json
+D:\Microsoft Dot Net Core\.net core\CRUDMVCproject\CRUDMVCproject\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Microsoft Dot Net Core\.net core\CRUDMVCproject\CRUDMVCproject\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Microsoft Dot Net Core\.net core\CRUDMVCproject\CRUDMVCproject\obj\Debug\net8.0\CRUDMVCp.32670864.Up2Date
+D:\Microsoft Dot Net Core\.net core\CRUDMVCproject\CRUDMVCproject\obj\Debug\net8.0\CRUDMVCproject.dll
+D:\Microsoft Dot Net Core\.net core\CRUDMVCproject\CRUDMVCproject\obj\Debug\net8.0\refint\CRUDMVCproject.dll
+D:\Microsoft Dot Net Core\.net core\CRUDMVCproject\CRUDMVCproject\obj\Debug\net8.0\CRUDMVCproject.pdb
+D:\Microsoft Dot Net Core\.net core\CRUDMVCproject\CRUDMVCproject\obj\Debug\net8.0\CRUDMVCproject.genruntimeconfig.cache
+D:\Microsoft Dot Net Core\.net core\CRUDMVCproject\CRUDMVCproject\obj\Debug\net8.0\ref\CRUDMVCproject.dll

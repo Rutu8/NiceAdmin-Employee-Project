@@ -1,0 +1,71 @@
+﻿@{
+    var Employee = ViewBag.employeeList as System.Data.DataTable;
+    int cnt = 0; //this is only for counter
+}
+
+<main id="main" class="main">
+
+    <div class="pagetitle">
+        <div class="row">
+            <div class="col-8">
+                <h1>Employees</h1>
+                <nav>
+                    <ol class="breadcrumb">
+                        <li class="breadcrumb-item"><a href="/admin">Home</a></li>
+                        <li class="breadcrumb-item active">Employees</li>
+                    </ol>
+                </nav>
+            </div>
+            <div class="col-4">
+                <a class="btn btn-sm btn-success float-end" href="/employee/0">Add Employee</a>
+            </div>
+        </div>
+    </div><!-- End Page Title -->
+ <section class="section dashboard">
+        <div class="row">
+
+            <!-- Left side columns -->
+            <div class="col-lg-12">
+                <table class="table table-bordered table-stripped">
+                    <tr>
+
+                       
+                        <th>No</th>
+                        <th>Name</th>
+                        <th>Mobile no</th>
+                        <th>Email</th>
+                        <th>Gender</th>
+                        <th>Manager Name</th>
+                        <th>Actions</th>
+                    </tr>
+                   
+                        
+                        @foreach(System.Data.DataRow row in Employee.Rows)
+                        {
+                        cnt++;
+                        
+                         <tr>
+                            
+                      
+                        <td>@cnt</td>
+                        <td>@row["name"]</td>
+                        <td>@row["mobileno"]</td>
+                        <td>@row["email"]</td>
+                        <td>@row["gender"]</td>
+                        <td>@row["managername"]</td>
+                            <td>
+                                <a href="/employee/@row["id"]" class="btn btn-primary">Edit</a>
+                                <a href="/deleteemployee/@row["id"]" class="btn btn-danger" onclick=" return confirm('This action cannot be undone. Proceed with delete?');">Delete</a>
+                            </td>
+                        </tr>
+                        }
+
+                      
+                       
+                </table>
+            </div>
+        </div>
+    </section>
+
+</main><!-- End #main -->
+<!-- ======= Footer ======= -->
